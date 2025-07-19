@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bootloader ya Mike na Lingala
 
 **Liboso, nini?**  
@@ -10,3 +11,7 @@ Na projet oyo, tosali bootloader ya mike oyo esalaka na mode 16-bit mpe epesaka 
 3. Kolisala assemble:  
    ```bash
    nasm -f bin boot.asm -o boot.bin
+=======
+# lingala-bios
+A minimal BIOS bootloader that prints a message in Lingala using x86 Assembly
+>>>>>>> 6b6942cf7d8f7beb70826eb9509d0532847caae8
